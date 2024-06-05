@@ -1,0 +1,18 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0px;
+	padding: 100px;
+	background: #c3cad8;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12pt;
+	font-weight: 400;
+	color: #221b1b;
+}
+
+img {
+    max-width: 540px;
+    width: 50%;
+}
